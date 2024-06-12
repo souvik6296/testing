@@ -193,6 +193,7 @@ body {
     color: #0489ad;
     font-size: 1.2vw;
     font-family: 'Brush Script MT', cursive;
+    font-weight: bold;
 }
 
 .divider {
@@ -544,6 +545,7 @@ a {
     align-items: center;
     visibility: hidden;
     justify-content: center;
+    z-index: 100;
 }
 #menu11{
     height: 100%;
